@@ -108,3 +108,17 @@ Rappel de l'intérêt de la gestion de projet :
 - Développer / affiner le contenu des docuements d'analyse
 - Créer des modèles de documents pour cette partie
 
+## avancement
+
+- Faire chaque partie en individuel
+- Correction de chaque partie au tableau en commun
+- Les trames des documents sont à faire sur GoogleDoc ou sur Word, et seront transmise en 
+
+Programme : 
+- 20/01/26 matin : partie 1
+- 20/01/26 aprem : partie 2
+- 26/01/26 matin : partie 3
+- 26/01/26 aprem : partie 4, 5
+- 20/02/26 matin : partie 6, 7
+- 20/02/26 aprem : partie 8, 9
+
