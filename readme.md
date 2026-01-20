@@ -100,3 +100,11 @@ Rappel de l'intérêt de la gestion de projet :
 - PV de livraison
 - Guide d'exploitation (sauvegarde, mise à jour, etc...)
 - Plan de maintenance / de supervision
+
+# TP
+
+## TP1 - 20/01/26 - 10h
+
+- Développer / affiner le contenu des docuements d'analyse
+- Créer des modèles de documents pour cette partie
+
