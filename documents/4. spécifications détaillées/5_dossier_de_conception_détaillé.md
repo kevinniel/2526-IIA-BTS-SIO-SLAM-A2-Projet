@@ -1,4 +1,4 @@
-# Cas d'usage
+# Dossier de conception détaillé
 
 ## Qu'est-ce que c'est ?
 
