@@ -3,6 +3,7 @@
 ## Qu'est-ce que c'est ?
 
 - C'est un document qui décrit les logiciels, systèmes et infrastructures déjà en place.
+- Peut intégrer les compétences techniques
 
 ## A quoi ça sert ?
 
